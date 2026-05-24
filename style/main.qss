@@ -1,0 +1,36 @@
+QMainWindow {
+    background-color: #121212;
+}
+
+QPushButton {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+}
+
+#on_button {
+    background-color: #2ecc71;
+    border-radius: 100px;
+}
+
+#on_button:hover {
+    background-color: #27ae60;
+}
+
+#on_button:pressed {
+    background-color: #1e8449;
+}
+
+#off_button {
+    background-color: #e74c3c;
+    border-radius: 100px;
+}
+
+#off_button:hover {
+    background-color: #c0392b;
+}
+
+#off_button:pressed {
+    background-color: #922b21;
+}
